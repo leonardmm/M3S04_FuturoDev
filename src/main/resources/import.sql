@@ -1,0 +1,1 @@
+INSERT INTO public.usuario(login, senha, nome, ) VALUES ('roni','miau22','Roni Marinho');
